@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am David, a Python Developer, Machine Learning Engineer, and a Technical Writer.
+
+## My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvheed)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dayvheed/dayvheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
