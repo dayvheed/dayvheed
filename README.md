@@ -2,7 +2,7 @@
 
 👨‍💻 David | Python Developer & Data Person
 
-I thrive at the intersection of data and backend development. My toolkit extends through AWS, Docker, Flask, Neo4j for graph databases, PostgreSQL. etc. I also have a personal affinity for Machine Learning and Large Language Models.
+I focus intersection of data and backend development. My toolkit includes AWS, Docker, Flask, Neo4j for graph databases, PostgreSQL. etc. I live learning about Machine Learning and Large Language Models (LLMs).
 
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvheed)](https://github.com/anuraghazra/github-readme-stats)
